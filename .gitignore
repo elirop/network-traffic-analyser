@@ -1,0 +1,10 @@
+# Captures may contain private network data.
+*.pcap
+*.pcapng
+*.cap
+
+# Generated output and Python cache.
+traffic-report.md
+__pycache__/
+*.py[cod]
+.DS_Store

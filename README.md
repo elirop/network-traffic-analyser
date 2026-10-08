@@ -1,4 +1,4 @@
-Network Traffic Analyser
+Network Traffic Analyser 
 A small Python project I'm using to practise packet analysis with Wireshark.
 The script reads a saved capture through TShark and puts the results into a Markdown report. I tested it on my Mac using traffic captured while browsing.
 What it reports

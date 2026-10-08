@@ -28,4 +28,4 @@ python3 analyse.py my-traffic.pcapng --output report.md
 Reading the results
 The destination table includes traffic arriving at your own laptop. The conversation table combines both directions between each IP pair. Byte counts use captured frame lengths, including headers.
 All times are in UTC. The report only covers the captured traffic, and retransmissions on their own don't confirm a network fault.
-Packet captures and the default report are excluded from Git by .gitignore.
+Packet captures and the default report are excluded from Git by .gitignore. 
